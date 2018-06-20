@@ -1,0 +1,26 @@
+# General
+# =======
+*.bak
+*.dat
+*.gz
+*.log
+*.out
+*.pid
+*.swp
+*.tmp
+*.txt
+
+# VuePress rendered files
+# =======================
+docs/.vuepress/dist
+./vuepress
+
+# OS
+# ==
+.DS_Store
+ehthumbs.db
+Thumbs.db
+
+# Visual Studio Code
+# ==================
+.vscode/*
